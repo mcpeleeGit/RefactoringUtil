@@ -1,0 +1,6 @@
+C:\DEV\WebSite\RefactoringUtil\bin\Debug\RefactoringUtil.exe.config
+C:\DEV\WebSite\RefactoringUtil\bin\Debug\RefactoringUtil.exe
+C:\DEV\WebSite\RefactoringUtil\bin\Debug\RefactoringUtil.pdb
+C:\DEV\WebSite\RefactoringUtil\obj\Debug\RefactoringUtil.csprojResolveAssemblyReference.cache
+C:\DEV\WebSite\RefactoringUtil\obj\Debug\RefactoringUtil.exe
+C:\DEV\WebSite\RefactoringUtil\obj\Debug\RefactoringUtil.pdb
